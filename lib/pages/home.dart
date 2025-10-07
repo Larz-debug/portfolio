@@ -30,7 +30,7 @@ class HomePage extends StatelessWidget {
                 children: [
                   const DrawerHeader(
                     decoration: BoxDecoration(color: Color(0xFFFF6F61)),
-                    child: Text("Larz", style: TextStyle(color: Colors.white)),
+                    child: Text("Lawrence", style: TextStyle(color: Colors.white)),
                   ),
                   _drawerItem(context, "Home", "/"),
                   _drawerItem(context, "Projects", "/projects"),
