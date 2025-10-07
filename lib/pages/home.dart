@@ -97,7 +97,7 @@ class HomePage extends StatelessWidget {
                               onPressed: () {
                                 Navigator.pushNamed(context, "/contact");
                               },
-                              child: const Text("Contact me !!"),
+                              child: const Text("Contact me !!!"),
                             ),
                           ],
                         ),

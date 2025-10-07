@@ -22,7 +22,7 @@ class PortfolioApp extends StatelessWidget {
         primaryColor: const Color(0xFFFF6F61), // coral accent
         textTheme: GoogleFonts.firaCodeTextTheme(
           ThemeData.dark().textTheme.apply(
-                bodyColor: Colors.white.withOpacity(0.85), // readable body text
+                bodyColor: Colors.white.withOpacity(0.95), // readable body text
                 displayColor: Colors.white, // headings
               ),
         ),
