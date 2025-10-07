@@ -79524,7 +79524,7 @@ A.q5.prototype={
 L(a){var s=this,r=null,q=A.bn(a,r,t.w).w,p=A.Uz(r,B.x,0,B.SF),o=t.p
 return A.a7u(p,A.dD(A.b([A.jq(A.mZ(new A.cr(B.fm,q.a.a>800?A.rn(A.b([A.jq(s.Jl(a),1),B.yb,A.jq(s.Jk(a),1)],o),B.at,B.d4,B.a_):A.anp(A.dD(A.b([s.Jl(a),B.ye,s.Jk(a)],o),B.af,B.X,B.a_),r),r),r,r),1),B.fz],o),B.af,B.X,B.a_),r)},
 Jl(a){var s=null
-return A.dD(A.b([A.dt("#contacts",s,s,s,A.el(s,s,A.T(a).dx,s,s,s,s,s,s,s,s,20,s,s,B.au,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.kd,B.SI,B.eA,B.SD,B.yd,B.SB,B.kf,B.Sv,B.kf,B.Sy],t.p),B.at,B.X,B.a_)},
+return A.dD(A.b([A.dt("#contacts",s,s,s,A.el(s,s,A.T(a).dx,s,s,s,s,s,s,s,s,20,s,s,B.au,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.kd,B.SI,B.eA,B.SD,B.yd,B.SA,B.kf,B.Sv,B.kf,B.Sy],t.p),B.at,B.X,B.a_)},
 Jk(a){var s=null,r=new A.bo(s,t.am),q=$.as(),p=A.dY(12),o=A.b([new A.cU(0,B.ch,A.aD(B.c.aG(76.5),B.l.D()>>>16&255,B.l.D()>>>8&255,B.l.D()&255),B.to,12)],t.sq)
 q=A.dD(A.b([A.dt("Send me a message \u270d\ufe0f",s,s,s,A.el(s,s,A.T(a).dx,s,s,s,s,s,s,s,s,20,s,s,B.e3,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.eB,A.anA(new A.rS(B.ht,q),this.Bd("Name"),1,new A.Wp()),B.yc,A.anA(new A.rS(B.ht,q),this.Bd("Email"),1,new A.Wq()),B.yc,A.anA(new A.rS(B.ht,q),this.Bd("Message"),4,new A.Wr()),B.eB,A.amv(B.Sm,new A.Ws(r,a),A.aql(s,s,B.dQ,s,s,s,s,s,s,B.l,s,s,B.Dn,s,new A.c6(A.dY(10),B.q),s,s,s,s,s))],t.p),B.at,B.X,B.a_)
 return A.kR(s,new A.wy(q,B.i4,r),B.A,s,s,new A.cT(B.BZ,s,s,p,o,s,B.az),s,s,s,B.fm,s,s,s)},
@@ -79548,12 +79548,12 @@ $S:0}
 A.qw.prototype={
 L(a){var s,r,q,p,o,n,m=this,l=null,k="Projects",j="/projects",i="/about",h="Contacts",g="/contact",f=A.bn(a,l,t.w).w.a.a>800,e=t.p,d=A.b([],e)
 if(f)B.b.V(d,A.b([m.va(a,"Home","/"),m.va(a,k,j),m.va(a,"About",i),m.va(a,h,g)],e))
-d=A.Uz(d,B.x,0,B.SA)
+d=A.Uz(d,B.x,0,B.Sz)
 if(!f){s=A.asp(A.b([B.CG,m.uC(a,"Home","/"),m.uC(a,k,j),m.uC(a,"About",i),m.uC(a,h,g)],e),!0,!0,!0)
 s=new A.GG(B.f5,new A.I5(s,B.b5,B.aH,!1,l,l,B.l3,!1,l,5,B.ag,l,l,B.V,B.an,l),l)}else s=l
 r=f?B.aW:B.aH
 q=f?1:0
-q=A.jq(A.dD(A.b([B.SC,A.asz(A.cn(B.FM,A.el(l,l,A.T(a).dx,l,l,l,l,l,l,l,l,36,l,l,B.au,l,l,!0,l,l,l,l,l,l,l,l),"web designer "),l,l),B.kd,B.Ss,B.ye,A.amv(B.Sz,new A.a_U(a),l)],e),B.at,B.X,B.a_),q)
+q=A.jq(A.dD(A.b([B.SC,A.asz(A.cn(B.FM,A.el(l,l,A.T(a).dx,l,l,l,l,l,l,l,l,36,l,l,B.au,l,l,!0,l,l,l,l,l,l,l,l),"web designer "),l,l),B.kd,B.Ss,B.ye,A.amv(B.SB,new A.a_U(a),l)],e),B.at,B.X,B.a_),q)
 p=f?1:0
 o=A.W4(A.dY(12),A.a0a("assets/profile_pics.jpg",B.eQ,300,l))
 n=A.dY(8)
@@ -85281,9 +85281,9 @@ B.Qa=new A.j(!0,B.dQ,null,null,null,null,32,B.au,null,null,null,null,null,null,n
 B.Sw=new A.cl("Hi, I'm Lawrence \ud83d\udc4b",null,B.Qa,null,null,null,null,null,null)
 B.Sx=new A.cl("/projects",null,null,null,null,null,null,null,null)
 B.Sy=new A.cl("\ud83d\udcbb GitHub: github.com/Larz-debug",null,B.kt,null,null,null,null,null,null)
-B.Sz=new A.cl("Contact me !!",null,null,null,null,null,null,null,null)
-B.SA=new A.cl("/home",null,null,null,null,null,null,null,null)
-B.SB=new A.cl("\ud83d\udce7 Email: larz.stack@gmail.com",null,B.kt,null,null,null,null,null,null)
+B.Sz=new A.cl("/home",null,null,null,null,null,null,null,null)
+B.SA=new A.cl("\ud83d\udce7 Email: larz.stack@gmail.com",null,B.kt,null,null,null,null,null,null)
+B.SB=new A.cl("Contact me !!!",null,null,null,null,null,null,null,null)
 B.Rh=new A.j(!0,null,null,null,null,null,36,B.au,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.SC=new A.cl("Lawrence is a ",null,B.Rh,null,null,null,null,null,null)
 B.yB=new A.j(!0,B.G,null,null,null,null,16,null,null,null,null,null,1.6,null,null,null,null,null,null,null,null,null,null,null,null,null)
